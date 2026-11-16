@@ -1,0 +1,6 @@
+{
+  "name": "HAIRLUME AI",
+  "description": "AI-powered hair fall detection, scalp health analysis, and personalized hair care recommendation system.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
